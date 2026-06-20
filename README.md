@@ -2,7 +2,7 @@
 
 ## What exactly is this application?
 
-Through iteration and thousands of calculations, this app identifies the fastest possible route to completing scope — in other words, it maximises the amount of ballast cleaning scope achievable in a set obstruction or working window. The application generates a time-distance diagram (TDC) based on inputs received from the design team and obtained from the field: Design Top of Rail, Existing Top of Rail, Existing Top of Capping Layer, location of laydowns for dumping spoil, location of ballast reloading, ballast return rate, and so on.
+Through iteration and thousands of calculations, this app identifies the fastest possible route to completing scope — in other words, it maximises the amount of ballast cleaning scope achievable in a set obstruction or working window. The application generates a time-distance chart (TDC) based on inputs received from the design team and obtained from the field: Design Top of Rail, Existing Top of Rail, Existing Top of Capping Layer, location of laydowns for dumping spoil, location of ballast reloading, ballast return rate, and so on.
 
 ![Design Data input tab](Picture_3.jpg)
 
